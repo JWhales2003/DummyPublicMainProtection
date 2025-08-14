@@ -1,2 +1,2 @@
 # Dummy Project
-For testing branch protection rules
+For testing branch protection rules.
